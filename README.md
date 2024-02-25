@@ -1,3 +1,8 @@
+<style>
+    p{
+        color:red;
+    }
+</style>
 <h1 align="center">Hi 👋, I'm Azizul Alam Prottoy</h1>
 <h3 align="center">A Passionate software developer</h3>
 
