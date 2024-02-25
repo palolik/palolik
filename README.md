@@ -17,7 +17,7 @@
 - 📫 How to reach me **azizulalamprottoy@gmail.com**
 </p>
 <h2 align="center">Languages and Tools:</h2>
-<table align="center">    
+<table align="center"  width="800px">    
 <tr><td>
     <p align="center">
     <h3  align="center">Design Softwares</h3>
@@ -68,6 +68,6 @@
 </table>
     <h2 align="center">Statistics 📈 </h2>
     <p align="center">
-        <img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=palolik&show_icons=true&theme=tokyonight" />
+        <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=palolik&show_icons=true&theme=tokyonight" />
         <img height="200px" width="400px"src="https://github-readme-streak-stats.herokuapp.com/?user=palolik&show_icons=true&theme=tokyonight" />
     </p >
