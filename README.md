@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azizul Alam Prottoy</h1>
 <h3 align="center">A Passionate software developer</h3>
-
-<p  align="center"> <img src="https://komarev.com/ghpvc/?username=palolik&label=Profile%20views&color=0e75b6&style=flat"
-        alt="palolik" /> </p>
+<p  align="center"> <img src="https://komarev.com/ghpvc/?username=palolik&label=Profile%20views&color=0e75b6&style=flat" alt="palolik" /> </p>
 
 
 
