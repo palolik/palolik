@@ -68,6 +68,14 @@
 </table>
     <h2 align="center">Statistics 📈 </h2>
     <p align="center">
-        <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=palolik&show_icons=true&theme=tokyonight" />
-        <img height="200px" width="400px"src="https://github-readme-streak-stats.herokuapp.com/?user=palolik&show_icons=true&theme=tokyonight" />
+        <img height="220px" width="400px" src="https://github-readme-stats.vercel.app/api?username=palolik&show_icons=true&theme=tokyonight" />
+        <img height="220px" width="400px"src="https://github-readme-streak-stats.herokuapp.com/?user=palolik&show_icons=true&theme=tokyonight" />
     </p >
+    <h3 align="center">Project Repositories</h3>
+    <h5><a href="" >Tutora</a></h5><br>
+    <h5><a href="" >Qstydy</a></h5><br>
+    <h5><a href="" >Tutora</a></h5><br>
+    <h5><a href="" >Tutora</a></h5><br>
+    <h5><a href="" >Tutora</a></h5><br>
+    <h5><a href="" >Tutora</a></h5><br>
+
