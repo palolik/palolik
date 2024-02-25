@@ -72,10 +72,10 @@
         <img height="220px" width="400px"src="https://github-readme-streak-stats.herokuapp.com/?user=palolik&show_icons=true&theme=tokyonight" />
     </p >
     <h3 align="center">Project Repositories</h3>
-    <h5><a href="" >Tutora</a></h5><br>
-    <h5><a href="" >Qstydy</a></h5><br>
-    <h5><a href="" >Tutora</a></h5><br>
-    <h5><a href="" >Tutora</a></h5><br>
-    <h5><a href="" >Tutora</a></h5><br>
-    <h5><a href="" >Tutora</a></h5><br>
-
+    <h5>1.<a href="" >Tutora</a></h5>
+    <h5>2.<a href="" >Qstydy</a></h5>
+    <h5>3.<a href="" >Tutora</a></h5>
+    <h5>4.<a href="" >Tutora</a></h5>
+    <h5>5.<a href="" >Tutora</a></h5>
+    <h5>6.<a href="" >Tutora</a></h5>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png"/>
