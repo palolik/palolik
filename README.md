@@ -1,17 +1,10 @@
 <h1 align="center">Hi 👋, I'm Azizul Alam Prottoy</h1>
 <h3 align="center">A Passionate software developer</h3>
 <p  align="center"> <img src="https://komarev.com/ghpvc/?username=palolik&label=Profile%20views&color=0e75b6&style=flat" alt="palolik" /> </p>
-
-
-
-
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-    
+<p align="center"> 
 - 🔭 I’m currently working on **meal app(flutter)**
-
 - 🌱 I’m currently learning **java**
-
 - 📫 How to reach me **azizulalamprottoy@gmail.com**
 </p>
 <h2 align="center">Languages and Tools:</h2>
@@ -24,7 +17,6 @@
     <a><img src="https://cms.pixso.net/images/download/px-logo.png" alt="pixso" width="40" height="40" /> </a>
     <a><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="pixso" width="40" height="40" /> </a>
     <a><img src="https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" alt="pixso" width="40" height="40" /> </a>
-  
   <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /></a>            
 </div>
 </p>
@@ -64,7 +56,6 @@
 </p>
 </td></tr>
 <tr ><td colspan="2"  width="100%">
-    
 <h3 align="center">Database Systems</h3>
 <p   align="center">
 <a > <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"alt="mongodb" width="40" height="40" /> </a> 
@@ -76,8 +67,8 @@
 </table>
     <h2 align="center">Statistics 📈 </h2>
     <p align="center">
-        <img height="220px"  src="https://github-readme-stats.vercel.app/api?username=palolik&show_icons=true&theme=tokyonight" />
-        <img height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=palolik&show_icons=true&theme=tokyonight" />
+        <img  src="https://github-readme-stats.vercel.app/api?username=palolik&show_icons=true&theme=tokyonight" />
+        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=palolik&show_icons=true&theme=tokyonight" />
     </p >
     <h3 align="center" style="color: green;">Project Repositories</h3>
     <h5 style="color: green;">1.<a href="" >Tutora</a></h5>
