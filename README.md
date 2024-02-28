@@ -15,7 +15,7 @@
 - 📫 How to reach me **azizulalamprottoy@gmail.com**
 </p>
 <h2 align="center">Languages and Tools:</h2>
-<table align="center" >    
+<table align="center"  width="100%">    
 <tr><td>
     <p  width="400px" align="center">
     <h3  align="center">Design Softwares</h3>
