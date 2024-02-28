@@ -14,11 +14,11 @@
 
 - 📫 How to reach me **azizulalamprottoy@gmail.com**
 </p>
-<h2 align="center">Languages and Tools:</h2>
-<table align="center"  width="100%">    
+<h2 valign="center">Languages and Tools:</h2>
+<table valign="center"  width="100%">    
 <tr><td  width="50%">
-    <p  width="400px" align="center">
-    <h3  align="center">Design Softwares</h3>
+    <p  width="400px" valign="center">
+    <h3  valign="center">Design Softwares</h3>
     <a><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
     <a><img src="https://cms.pixso.net/images/download/px-logo.png" alt="pixso" width="40" height="40" /> </a>
     <a><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="pixso" width="40" height="40" /> </a>
@@ -26,8 +26,8 @@
     <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /></a>            
 </p>
 </td><td  width="50%">
-    <p  width="800px" align="center">
-    <h3 align="center">App Development Tools</h3>
+    <p  width="800px" valign="center">
+    <h3 valign="center">App Development Tools</h3>
     <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" alt="figma" width="40" height="40" /> </a>
     <a><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="figma" width="40" height="40" /> </a>
     <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
