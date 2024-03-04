@@ -71,6 +71,21 @@
         <img  src="https://github-readme-streak-stats.herokuapp.com/?user=palolik&show_icons=true&theme=tokyonight" />
     </p >
     <h3 align="center" style="color: green;">Project Repositories</h3>
+    <h1>App Repositories</h1>
+    <h5 style="color: green;">1.<a href="" >Tutora</a></h5>
+    <h5>2.<a href="" >Qstydy</a></h5>
+    <h5>3.<a href="" >Tutora</a></h5>
+    <h5>4.<a href="" >Tutora</a></h5>
+    <h5>5.<a href="" >Tutora</a></h5>
+    <h5>6.<a href="" >Tutora</a></h5>
+     <h1>PHP Repositories</h1>
+    <h5 style="color: green;">1.<a href="" >Tutora</a></h5>
+    <h5>2.<a href="" >Qstydy</a></h5>
+    <h5>3.<a href="" >Tutora</a></h5>
+    <h5>4.<a href="" >Tutora</a></h5>
+    <h5>5.<a href="" >Tutora</a></h5>
+    <h5>6.<a href="" >Tutora</a></h5>
+     <h1>MERN Repositories</h1>
     <h5 style="color: green;">1.<a href="" >Tutora</a></h5>
     <h5>2.<a href="" >Qstydy</a></h5>
     <h5>3.<a href="" >Tutora</a></h5>
