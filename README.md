@@ -71,14 +71,9 @@
         <img  src="https://github-readme-streak-stats.herokuapp.com/?user=palolik&show_icons=true&theme=tokyonight" />
     </p >
     <h3 align="center" style="color: green;">Project Repositories</h3>
-    <h1>App Repositories</h1>
-    <h5 style="color: green;">1.<a href="" >Tutora</a></h5>
-    <h5>2.<a href="" >Qstydy</a></h5>
-    <h5>3.<a href="" >cargo</a></h5>
-    <h5>4.<a href="" >ddd</a></h5>
-    <h5>5.<a href="" >Tutora</a></h5>
-    <h5>6.<a href="" >Tutora</a></h5>
-     <h1>PHP Repositories(html,css,php,mysql) :</h1>
+    <h4>App Repositories</h4>
+    <p>1.<a href="" >Tutora</a>2.<a href="" >Qstydy</a>3.<a href="" >cargo</a>4.<a href="" >ddd</a>5.<a href="" >Tutora</a>6.<a href="" >Tutora</a></p>
+     <h4>PHP Repositories(html,css,php,mysql) :</h4>
     <p>1.<a href="" >Studentshopbd</a>2.<a href="" >arvind</a>3.<a href="" >portfolio(with_adimin_panel)</a>4.<a href="" >personalmanagement</a>5.<a href="" >Tutoraweb</a>6.<a href="" >CC</a></p>
-    <h5>JS and MERN Repositories :</h5><br>
+    <h4>JS and MERN Repositories :</h4><br>
     <p>1.<a href="https://github.com/palolik/travelwebsite" >Hero Travel</a>2.<a href="https://github.com/palolik/hockey" >Hockey</a>3.<a href="https://github.com/palolik/green-tea" >GreenTea</a>4.<a href="https://github.com/palolik/eTicket" >Eticket</a>5.<a href="https://github.com/palolik/hunterjs" >HunterJs</a>6.<a href="https://github.com/palolik/Retro" >Retro</a></p>
