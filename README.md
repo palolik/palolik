@@ -86,4 +86,4 @@
     <h5>5.<a href="" >Tutora</a></h5>
     <h5>6.<a href="" >Tutora</a></h5>
      <h1>JS and MERN Repositories</h1><br>
-    <p>1.<a href="https://github.com/palolik/travelwebsite" >Hero Travel</a></p><p>2.<a href="https://github.com/palolik/hockey" >Hockey</a></p><p>3.<a href="https://github.com/palolik/green-tea" >GreenTea</a></p><p>4.<a href="https://github.com/palolik/eTicket" >Eticket</a></p><p>5.<a href="https://github.com/palolik/hunterjs" >HunterJs</a></p><p>6.<a href="https://github.com/palolik/Retro" >Retro</a></p>
+    <p>1.<a href="https://github.com/palolik/travelwebsite" >Hero Travel</a>2.<a href="https://github.com/palolik/hockey" >Hockey</a>3.<a href="https://github.com/palolik/green-tea" >GreenTea</a>4.<a href="https://github.com/palolik/eTicket" >Eticket</a>5.<a href="https://github.com/palolik/hunterjs" >HunterJs</a>6.<a href="https://github.com/palolik/Retro" >Retro</a></p>
