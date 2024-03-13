@@ -19,7 +19,7 @@
   <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /></a>            
 </p></td>
 <td>
-    <p   align="center">
+    <p align="center">
     <h3 align="center">App Development Tools</h3>
     <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" alt="figma" width="40" height="40" /> </a>
     <a><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="figma" width="40" height="40" /> </a>
@@ -29,7 +29,7 @@
 </p>
 </td>
 <td>
-    <p   align="center">
+    <p align="center">
     <h3 align="center">Web Development Front End</h3>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
@@ -39,7 +39,7 @@
 </p>
 </td>
 <td>
-    <p   align="center">
+    <p align="center">
     <h3 align="center">Web Development Back End</h3>
     <a> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /> </a>
     <a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> 
@@ -47,7 +47,7 @@
    <a><img src="https://www.vhv.rs/dpng/f/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png" alt="python" width="40" height="40" /> </a> 
 </p>
 </td></tr>
-<tr ><td colspan="2"  width="100%">
+<tr ><td colspan="4"  width="100%">
 <h3 align="center">Database Systems</h3>
 <p   align="center">
 <a > <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"alt="mongodb" width="40" height="40" /> </a> 
