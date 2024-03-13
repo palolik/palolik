@@ -67,11 +67,11 @@
     <h3 align="center" style="color: green;">Project Repositories</h3>
     <table><tr><td>
     <h4>App Repositories</h4>
-    <p>1.<a href="https://github.com/palolik/tutora-app.git" >Tutora</a>2.<a href="" >Qstydy</a>3.<a href="" >cargo</a>4.<a href="https://github.com/palolik/Einsurenceapp.git" >Einsurence</a>5.<a href="https://github.com/palolik/rentacar-app.git" >Rant a car</a>6.<a href="https://github.com/palolik/homeautomation.git" >HomeAutomation</a>7.<a href="https://github.com/palolik/quizapp.git">Quiz app(local)</a>8.<a href="https://github.com/palolik/domino.git">Dominos</a>9.<a href="https://github.com/palolik/Pexpenseapp.git">Pexpensesapp</a>10.<a href="https://github.com/palolik/domino.git">Dominos</a></p>
+    <p>1.<a href="https://github.com/palolik/tutora-app.git" >Tutora</a><p></p>2.<a href="" >Qstydy</a><p></p>3.<a href="" >cargo</a><p></p>4.<a href="https://github.com/palolik/Einsurenceapp.git" >Einsurence</a><p></p>5.<a href="https://github.com/palolik/rentacar-app.git" >Rant a car</a><p></p>6.<a href="https://github.com/palolik/homeautomation.git" >HomeAutomation</a><p></p>7.<a href="https://github.com/palolik/quizapp.git">Quiz app(local)</a><p></p>8.<a href="https://github.com/palolik/domino.git">Dominos</a><p></p>9.<a href="https://github.com/palolik/Pexpenseapp.git">Pexpensesapp</a><p></p>10.<a href="https://github.com/palolik/domino.git">Dominos</a><p></p>
     </td><td>
      <h4>PHP Repositories(html,css,php,mysql) :</h4>
     <p>1.<a href="" >Studentshopbd</a>2.<a href="" >arvind</a>3.<a href="" >portfolio(with_adimin_panel)</a>4.<a href="" >personalmanagement</a>5.<a href="" >Tutoraweb</a>6.<a href="" >CC</a></p>
     </td><td>
     <h4>JS and MERN Repositories :</h4><br>
-    <p>1.<a href="https://github.com/palolik/travelwebsite" >Hero Travel</a>2.<a href="https://github.com/palolik/hockey" >Hockey</a>3.<a href="https://github.com/palolik/green-tea" >GreenTea</a>4.<a href="https://github.com/palolik/eTicket" >Eticket</a>5.<a href="https://github.com/palolik/hunterjs" >HunterJs</a>6.<a href="https://github.com/palolik/Retro" >Retro</a></p>
+    <p>1.<a href="https://github.com/palolik/travelwebsite">Hero Travel</a><p></p>2.<a href="https://github.com/palolik/hockey" >Hockey</a><p></p>3.<a href="https://github.com/palolik/green-tea" >GreenTea</a>4.<a href="https://github.com/palolik/eTicket" >Eticket</a>5.<a href="https://github.com/palolik/hunterjs" >HunterJs</a>6.<a href="https://github.com/palolik/Retro" >Retro</a></p>
     </td></tr></table>
