@@ -66,12 +66,19 @@
 </td></tr>
 </table>
     <h2 align="center" >Statistics 📈 </h2>
+<<<<<<< HEAD
     <table>
     <tr>
         <td><img  src="https://github-readme-stats.vercel.app/api?username=palolik&show_icons=true&theme=tokyonight" /></td>
         <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=palolik&show_icons=true&theme=tokyonight" /></td>
     </tr>
     </table>
+=======
+    <p align="center"  width="100%">
+        <img  src="https://github-readme-stats.vercel.app/api?username=palolik&show_icons=true&theme=tokyonight" />
+        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=palolik&show_icons=true&theme=tokyonight" />
+    </p >
+>>>>>>> 73edafd461fbb12e7b9d8962374e1398c7539a4d
     <h3 align="center" style="color: green;">Project Repositories</h3>
     <h4>App Repositories</h4>
     <p>1.<a href="https://github.com/palolik/tutora-app.git" >Tutora</a>2.<a href="" >Qstydy</a>3.<a href="" >cargo</a>4.<a href="https://github.com/palolik/Einsurenceapp.git" >Einsurence</a>5.<a href="https://github.com/palolik/rentacar-app.git" >Rant a car</a>6.<a href="https://github.com/palolik/homeautomation.git" >HomeAutomation</a>7.<a href="https://github.com/palolik/quizapp.git">Quiz app(local)</a>8.<a href="https://github.com/palolik/domino.git">Dominos</a>9.<a href="https://github.com/palolik/Pexpenseapp.git">Pexpensesapp</a>10.<a href="https://github.com/palolik/domino.git">Dominos</a></p>
