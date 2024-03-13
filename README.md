@@ -72,7 +72,7 @@
     </p >
     <h3 align="center" style="color: green;">Project Repositories</h3>
     <h4>App Repositories</h4>
-    <p>1.<a href="https://github.com/palolik/tutora-app.git" >Tutora</a>2.<a href="" >Qstydy</a>3.<a href="" >cargo</a>4.<a href="https://github.com/palolik/Einsurenceapp.git" >Einsurence</a>5.<a href="https://github.com/palolik/rentacar-app.git" >Rant a car</a>6.<a href="" >Tutora</a></p>
+    <p>1.<a href="https://github.com/palolik/tutora-app.git" >Tutora</a>2.<a href="" >Qstydy</a>3.<a href="" >cargo</a>4.<a href="https://github.com/palolik/Einsurenceapp.git" >Einsurence</a>5.<a href="https://github.com/palolik/rentacar-app.git" >Rant a car</a>6.<a href="https://github.com/palolik/homeautomation.git" >HomeAutomation</a></p>
      <h4>PHP Repositories(html,css,php,mysql) :</h4>
     <p>1.<a href="" >Studentshopbd</a>2.<a href="" >arvind</a>3.<a href="" >portfolio(with_adimin_panel)</a>4.<a href="" >personalmanagement</a>5.<a href="" >Tutoraweb</a>6.<a href="" >CC</a></p>
     <h4>JS and MERN Repositories :</h4><br>
