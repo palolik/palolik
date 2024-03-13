@@ -9,50 +9,42 @@
 </p>
 <h2 align="center">Languages and Tools:</h2>
 <table align="center"  width="100%">    
-<tr><td  width="50%">
-    <p   align="center">
-    <h3  align="center">Design Softwares</h3>
-    <div align="center">
+<tr><td>
+    <p align="center">
+    <h3 align="center">Design Softwares</h3>
     <a><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
     <a><img src="https://cms.pixso.net/images/download/px-logo.png" alt="pixso" width="40" height="40" /> </a>
     <a><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="pixso" width="40" height="40" /> </a>
     <a><img src="https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" alt="pixso" width="40" height="40" /> </a>
   <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /></a>            
-</div>
-</p>
-</td><td  width="50%">
+</p></td>
+<td>
     <p   align="center">
     <h3 align="center">App Development Tools</h3>
-    <div align="center">
     <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" alt="figma" width="40" height="40" /> </a>
     <a><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="figma" width="40" height="40" /> </a>
     <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
     <a><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="figma" width="40" height="40" /> </a>
     <a><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a> 
-</div>
 </p>
-</td></tr>
-<tr><td  width="50%">
+</td>
+<td>
     <p   align="center">
     <h3 align="center">Web Development Front End</h3>
-    <div align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
     <a><img src="https://files.raycast.com/nwt9ncojkvwmjfkaada8upafvpnu" alt="figma" width="40" height="40" /> </a>
     <a><img src="https://avatars.githubusercontent.com/u/76870092?s=280&v=4" alt="figma" width="40" height="40" /> </a>
-</div>
 </p>
-</td><td  width="50%">
+</td>
+<td>
     <p   align="center">
     <h3 align="center">Web Development Back End</h3>
-    <div align="center">
     <a> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /> </a>
     <a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> 
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a> 
- 
    <a><img src="https://www.vhv.rs/dpng/f/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png" alt="python" width="40" height="40" /> </a> 
-</div>
 </p>
 </td></tr>
 <tr ><td colspan="2"  width="100%">
