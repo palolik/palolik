@@ -25,7 +25,7 @@
 </p></td>
 <td>
     <p align="center">
-    <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%283023%29.svg/3048px-Android_Studio_icon_%283023%29.svg.png" alt="figma" width="30" height="30" /> </a>
+    <a><img src="https://static-00.iconduck.com/assets.00/android-studio-icon-486x512-zp9um7zl.png" alt="figma" width="30" height="30" /> </a>
     <a><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="figma" width="30" height="30" /> </a>
     <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" /> </a>
     <a><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="figma" width="30" height="30" /> </a>
