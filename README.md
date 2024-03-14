@@ -21,7 +21,7 @@
     <a><img src="https://cms.pixso.net/images/download/px-logo.png" alt="pixso" width="30" height="30" /> </a>
     <a><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="pixso" width="30" height="30" /> </a>
     <a><img src="https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" alt="pixso" width="30" height="30" /> </a>
-  <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30" /></a>            
+  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30" /></a>            
 </p></td>
 <td>
     <p align="center">
