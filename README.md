@@ -72,8 +72,8 @@
     <tr><td><h4>App Repositories(flutter,dart):</h4></td><td><h4>PHP Repositories(html,css,php,mysql) :</h4></td><td>    <h4>JS and MERN Repositories :</h4></td></tr>
     <tr><td>
     <p>1.<a href="https://github.com/palolik/tutora-app.git" >Tutora</a></p>
-    <p>2.<a href="" >Qstydy</a></p>
-    <p>3.<a href="" >cargo</a></p>
+    <p>2.<a href="https://github.com/palolik/qstudy--app.git" >Qstydy</a></p>
+    <p>3.<a href="https://github.com/palolik/cargo-app.git" >cargo</a></p>
     <p>4.<a href="https://github.com/palolik/Einsurenceapp.git" >Einsurence</a></p>
     <p>5.<a href="https://github.com/palolik/rentacar-app.git" >Rant a car</a></p>
     <p>6.<a href="https://github.com/palolik/homeautomation.git" >HomeAutomation</a></p>
