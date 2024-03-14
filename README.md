@@ -15,16 +15,17 @@
     <td><h3 align="center">Web Development Front End</h3></td>
     <td><h3 align="center">Web Development Back End</h3></td>
 </tr>
-<tr><td>
-    <p align="center">
-    <a><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /> </a>
-    <a><img src="https://cms.pixso.net/images/download/px-logo.png" alt="pixso" width="30" height="30" /> </a>
-    <a><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="pixso" width="30" height="30" /> </a>
-    <a><img src="https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" alt="pixso" width="30" height="30" /> </a>
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30" /></a>            
-</p></td>
+<tr>
 <td>
     <p align="center">
+    <a><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /></a>
+    <a><img src="https://cms.pixso.net/images/download/px-logo.png" alt="pixso" width="30" height="30" /></a>
+    <a><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="pixso" width="30" height="30" /></a>
+    <a><img src="https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" alt="pixso" width="30" height="30" /></a>
+    <a><img src="https://cdn-icons-png.flaticon.com/512/5436/5436972.png" alt="photoshop" width="30" height="30" /></a> 
+</p>
+</td>
+    <td><p align="center">
     <a><img src="https://static-00.iconduck.com/assets.00/android-studio-icon-486x512-zp9um7zl.png" alt="figma" width="30" height="30" /> </a>
     <a><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="figma" width="30" height="30" /> </a>
     <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" /> </a>
