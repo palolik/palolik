@@ -98,5 +98,6 @@
     <p>5.<a href="https://github.com/palolik/hunterjs" >HunterJs</a></p>
     <p>6.<a href="https://github.com/palolik/Retro">Retro</a></p>
     <p>7.<a href="https://github.com/palolik/IVolunteer">Ivolunteer</a></p>
-    <p>8.<a href=" https://github.com/palolik/Art-Craft">ArtsAndCrufts</a></p>
+    <p>8.<a href="https://github.com/palolik/Art-Craft">ArtsAndCrufts</a></p>
+    <p>9.<a href="https://github.com/palolik/Edumanager">Edumanager</a></p>
     </td></tr></table>
